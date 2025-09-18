@@ -1,0 +1,46 @@
+#Hello!
+Welcome to my very first post on this blog! 
+
+I belive this is going to be a bit shallow as i cover the material, but we will get better with time!
+I am currently reading the third chapter(of the book FasAI) and I am almost through with it. 
+To remember and solidfy my thoughts i am going to make a couple of notes here! Hopefully you find them helpful and if not then no issues (look out for better things in the future!)
+
+##Introduction
+
+The problem with the datasets that our NN are trained on are that they have data issues (such as biased data, misinformated data etc)
+and since the boom of Deep Learning was so recent that it is imperative that we look at the results that these NN are giving and question ourselves
+wheather this is something we agree with or is something we need to look at from a better ethical and moral standpoint.
+
+Some examples of Data ethics :
+
+1. "After implementation of the algorithm in Arkansas,
+hundreds of people (many with severe disabilities) had their healthcare drastically cut." - Chap 3
+
+This speaks about the time an algorithm was put in place of giving and checking if the given healtcare was aqeuate or more and a LOT of people were left stranded with their 
+healthcare being drastically cut due to biases and issues in the underlying dataset.
+(I personally believe that there needs to be a good amount of human oversight with stuff like this)
+
+2. " Feedback loops can occur when your model is controlling the next round of data you get.
+The data that is returned quickly becomes *flawed by the software itself.*
+
+Youtube shows a **lot** of content to people in the world and the fact that it is motivated to optimize watch time might cause people to be fed
+the same kind of data at a much amplified pace to keep them on and this can skew their mindest ever more ( since they are not showed things from another viewpoint this might reinforce their view points)
+
+###Why might this matter?
+
+The thing is that it is going to matter little if your viewpoint is different to someone who is in a senior position to you if push come to shove.
+BUT change start from one person - so even if this chapter and notes are almost never used it is better to be preapred than to not be.
+
+We humans have a moral obligation to help the people around us and maybe asking ourselves certain question when we are working on things that might have large 
+societal impact, will be better for all of us in the long run.
+
+I understand that this might feel like putting too much importance onto singlar than an organization (esp if your voice is chump change in front of a multi-billion dollar company)
+but doing what we can in our power and inspiring people around us to do the same is something we should all strive to do.
+
+"Sometimes, the right response to being asked to do a piece of work is to just say “no.” 
+Often, however, the response we hear is, “If I don’t do it, someone else will.” But consider this: if you’ve been picked for the job, you’re the best person they’ve found to do it—so if you don’t do it, the best person isn’t working on that project. 
+If the first five people they ask all say no too, so much the better!" " - i thought this should be written here from the book beacuse it is v apt.
+
+
+##Topics in Data Ethics - will continue tomorrow hehe
+
