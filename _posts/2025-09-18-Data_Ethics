@@ -42,5 +42,49 @@ Often, however, the response we hear is, “If I don’t do it, someone else wil
 If the first five people they ask all say no too, so much the better!" " - i thought this should be written here from the book beacuse it is v apt.
 
 
-##Topics in Data Ethics - will continue tomorrow hehe
+##Topics in Data Ethics 
+
+There are certain topics in Data ethics that stand out more than others so lets look at them
+
+###Recourse and Accountability
+
+Deep Learning has so many systems that need to work together like - data collection, data cleaning, paramteer selection, etc.
+No doubt that a **lot** of people are involved, so when something goes wrong it is very easy to say that it wasn't me but that department, or that person, or that process, or because of these assumptions, etc.
+As you can see the way to deflect blame is endless, so we need a way to audit and make sure that we know when and how something went wrong - to correct and take responsibility so we can be better for the future.
+
+In the current system (In accordance to when the book was written) the machanism for this is incredibly slow and opaque.
+
+###Feedback loops
+
+I think this is best described by the book by this line - "An algorithm can interact with its environment to create a feedback loop, making predictions that reinforce actions taken in the real world,
+hich lead to predictions even more pronounced in the same direction"
+
+###Bias
+
+The bias we are talking are the ones we see in social science. There are 4 types of bias highlighted here.
+
+####Historical Bias
+
+Historical bias comes from the fact that people are biased, processes are biased and that people are biased.
+
+An example given in the book that summarises this issue properly is :
+
+"The COMPAS algorithm, widely used for sentencing and bail decisions in the US,
+is an example of an important algorithm that, when tested by ProPublica, showed clear racial bias in practice"
+
+The datasets can have any kind of bias - a bias on the basis of medical data, sales, political and so on.
+
+The fact is that the bias that we have ( and the one that gets programmed into these datasets) are so pervasive in that fact that most of the times
+we dont even know that we operate with a certain bias in mind.
+
+One of the MIT researchers, Joy Buolamwini, warned: “We have entered the age of automation overconfident yet underprepared.
+If we fail to make ethical and inclusive artificial intelligence, we risk losing gains made in civil rights and gender equity under the
+guise of machine neutrality.”
+
+--Note : The latter half of the notes are lost due to SSD failure but ill definetely come back to update these ones - for now onto chapter 4!
+
+
+
+
+
 
